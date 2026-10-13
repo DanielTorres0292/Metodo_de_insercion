@@ -10,7 +10,6 @@ public class Metodo_de_insercion {
         System.out.println("Arreglo original:");
         imprimirArreglo(arreglo);
         
-        // Aplicamos el algoritmo de inserción
         ordenarInsercion(arreglo);
         
         System.out.println("\nArreglo ordenado:");
